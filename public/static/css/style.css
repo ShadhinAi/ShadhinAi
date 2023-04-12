@@ -73,6 +73,7 @@ h1,
 h2,
 h3,
 h4,
+h5,
 p,
 a,
 label,
@@ -383,7 +384,7 @@ section.footer footer {
 }
 
 
-section.footer footer p {
+section.footer footer h5 {
     font-size: 20px;
     margin-bottom: 10px;
 }
