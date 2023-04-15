@@ -11,6 +11,10 @@
         margin: 0 1%;
     }
 
+    .cover_photo{
+        margin: 3px 1%;
+    }
+
     footer > div{
         margin-bottom: 20px;
     }
